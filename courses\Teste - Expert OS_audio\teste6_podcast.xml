@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+  <channel>
+    <title>Podcast do Curso: teste6</title>
+    <link>https://drive.google.com/uc?id=1natYLaUW0Gy3OljJMZvce41i5CpwgytI&amp;export=download</link>
+    <language>pt-br</language>
+    <itunes:author>NeuroDaemon</itunes:author>
+    <itunes:summary>Áudio unificado e transcrições do curso teste6.</itunes:summary>
+    <description>Áudio unificado e transcrições do curso teste6.</description>
+    <itunes:image href="https://example.com/podcast_cover.jpg"/>
+    <url>https://example.com/podcast_cover.jpg</url>
+    <itunes:owner>
+      <itunes:name>NeuroDaemon</itunes:name>
+      <itunes:email>contato@neurodaemon.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education"/>
+    <item>
+      <title>Curso Completo: teste6</title>
+      <itunes:author>NeuroDaemon</itunes:author>
+      <itunes:summary>Áudio unificado e transcrições do curso teste6.</itunes:summary>
+      <description>Áudio unificado e transcrições do curso teste6.</description>
+      <link>https://drive.google.com/uc?id=1natYLaUW0Gy3OljJMZvce41i5CpwgytI&amp;export=download</link>
+      <enclosure url="https://drive.google.com/uc?id=1natYLaUW0Gy3OljJMZvce41i5CpwgytI&amp;export=download" type="audio/mpeg" length="0"/>
+      <guid>https://drive.google.com/uc?id=1natYLaUW0Gy3OljJMZvce41i5CpwgytI&amp;export=download</guid>
+      <pubDate>Tue, 15 Jul 2025 18:02:03 </pubDate>
+      <description>Áudio unificado e transcrições do curso teste6.
+
+Timestamps:
+# Timestamps do Curso
+
+  - 00:00:00 04-1- BEM VINDO
+  - 00:07:19 08-1- CRENÇAS</description>
+      <itunes:summary>Áudio unificado e transcrições do curso teste6.
+
+Timestamps:
+# Timestamps do Curso
+
+  - 00:00:00 04-1- BEM VINDO
+  - 00:07:19 08-1- CRENÇAS</itunes:summary>
+    </item>
+  </channel>
+</rss>
